@@ -1,0 +1,10 @@
+c:\users\ceren\documents\visual studio 2012\Projects\arabafirmasi\arabafirmasi\bin\Debug\arabafirmasi.exe.config
+c:\users\ceren\documents\visual studio 2012\Projects\arabafirmasi\arabafirmasi\bin\Debug\arabafirmasi.exe
+c:\users\ceren\documents\visual studio 2012\Projects\arabafirmasi\arabafirmasi\bin\Debug\arabafirmasi.pdb
+c:\users\ceren\documents\visual studio 2012\Projects\arabafirmasi\arabafirmasi\obj\Debug\arabafirmasi.csprojResolveAssemblyReference.cache
+c:\users\ceren\documents\visual studio 2012\Projects\arabafirmasi\arabafirmasi\obj\Debug\arabafirmasi.Form1.resources
+c:\users\ceren\documents\visual studio 2012\Projects\arabafirmasi\arabafirmasi\obj\Debug\arabafirmasi.Properties.Resources.resources
+c:\users\ceren\documents\visual studio 2012\Projects\arabafirmasi\arabafirmasi\obj\Debug\arabafirmasi.csproj.GenerateResource.Cache
+c:\users\ceren\documents\visual studio 2012\Projects\arabafirmasi\arabafirmasi\obj\Debug\arabafirmasi.exe
+c:\users\ceren\documents\visual studio 2012\Projects\arabafirmasi\arabafirmasi\obj\Debug\arabafirmasi.pdb
+c:\users\ceren\documents\visual studio 2012\Projects\arabafirmasi\arabafirmasi\obj\Debug\arabafirmasi.ozellik.resources
